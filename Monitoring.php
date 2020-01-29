@@ -15,4 +15,8 @@ class Monitoring {
 
     }
 
+    private function another() {
+        // another action here
+    }
+
 }

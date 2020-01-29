@@ -9,4 +9,10 @@ class Monitoring {
 
     }
 
+    private function initial() {
+
+        // sample action here
+
+    }
+
 }
